@@ -8,28 +8,33 @@ body
  h1
  { 
      position: absolute;
-     width: 742px;
-     height: 590px;
-     left: 633px;
-     top: 76px;
-     font-family: Helvetica;
+     width: 800px;
+     height: 280px;
+     top: 195px;
+     font-family: Lato;
      font-style: normal;
-     font-weight: normal;
-     font-size: 123px;
-     line-height: 140px;
+     font-weight: 300;
+     font-size: 137px;
+     line-height: 100%;
+     display: flex;
+     align-items: flex-end;
+     text-align: center;
+     letter-spacing: -0.01em;
+     text-transform: uppercase;
      color: #FFFFFF;
  }
  ul
  {   
      position: absolute;
+     top: 120px;
      width: 225px;
      height: 90px;
      left: 100px;
-     font-family: PT Sans;
+     font-family: lato;
      font-style: normal;
      font-weight: bold;
      font-size: 63px;
-     line-height: 82px;
+     line-height: 100px;
      color: #FFFFFF;
  }
  p 
@@ -39,7 +44,7 @@ body
      height: 236px;
      left: 1070px;
      top: 554px;
-     font-family: PT Sans;
+     font-family: Lato;
      font-style: normal;
      font-weight: normal;
      font-size: 38px;
@@ -49,10 +54,10 @@ body
  #rectangle
  {
      position: absolute;
-     width: 786px;
-     height: 740px;
-     left: 611px;
-     top: 130px;
+     width: 800px;
+     height: 750px;
+     left: 608px;
+     top: 100px;
      background: #1B191A;
      border: 4px solid #FFFFFF;
      box-sizing: border-box;
