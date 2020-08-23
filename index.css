@@ -5,7 +5,7 @@ body
      color: #FFFFFF;
      width: 1440;
      height: 900;
-     font-family: 'Lato', sans-serif;
+     font-family: 'Lato';
 }
 .div1
 {
@@ -63,12 +63,10 @@ h1
 p 
 {  
      position: absolute;
-     width: 306px;
+     width: 330px;
      height: 236px;
      left: 465px;
      margin-top: 470px;
-     font-style: normal;
-     font-weight: normal;
      font-size: 38px;
      line-height: 49px;
 }
