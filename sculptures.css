@@ -29,7 +29,6 @@ p
 {
     position: absolute;
     width: 440px;
-    top: 320px ;
     left: 0;
     font-family: PT Sans;
     font-style: normal;
@@ -37,6 +36,14 @@ p
     font-size: 23px;
     line-height: 28px;
 }
+.p1
+{
+    top: 190px ;
+} 
+.p2
+{
+    top: 310px;
+} 
 img 
 {
     position: absolute;

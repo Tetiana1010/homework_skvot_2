@@ -5,17 +5,17 @@ body
      color: #FFFFFF;
      width: 1440;
      height: 900;
- }
- .div1
- {
-    position: absolute;
-    width: 320px;
-    height: 670px;
-    left: 100px;
-    top: 140px;
- }
- ul
- {   
+}
+.div1
+{
+     position: absolute;
+     width: 320px;
+     height: 670px;
+     left: 100px;
+     top: 140px;
+}
+ul
+{   
      position: absolute;
      list-style-type: none;
      margin-top: 0px;
@@ -25,9 +25,9 @@ body
      font-weight: bold;
      font-size: 63px;
      line-height: 140px;
- }
- .div2
- {
+}
+.div2
+{
      position: absolute;
      width: 800px;
      height: 750px;
@@ -36,9 +36,9 @@ body
      background: #1B191A;
      border: 4px solid #FFFFFF;
      box-sizing: border-box;
- }
+}
 h1
- {   
+{   
      position: absolute;
      width: 790px;
      height: 280px;
@@ -55,17 +55,16 @@ h1
      text-transform: uppercase;
      animation-name: example;
     animation-duration: 4s;
-
-@keyframes example 
- {
-  0%   {background-color: red;}
-  25%  {background-color: yellow;}
-  50%  {background-color: blue;}
-  100% {background-color: green;}
 }
- }
- p 
- {  
+@keyframes example 
+{
+     0%   {color: red;}
+     25%  {color: yellow;}
+     50%  {color: blue;}
+     100% {color: green;}
+}
+p 
+{  
      position: absolute;
      width: 306px;
      height: 236px;
@@ -76,21 +75,21 @@ h1
      font-weight: normal;
      font-size: 38px;
      line-height: 49px;
- }
- /* unvisited link */
- a:link {
+}
+/* unvisited link */
+a:link {
      color:#FFFFFF;
      text-decoration: none;
- }
- /* visited link */
- a:visited 
- {
+}
+/* visited link */
+a:visited 
+{
      color: #FFFFFF;
      text-decoration: none;
- }
- /* mouse over link */
- a:hover 
- {
+}
+/* mouse over link */
+a:hover 
+{
      color: #C4C4C4;
      text-decoration: underline;            
- }
+}
