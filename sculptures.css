@@ -5,6 +5,8 @@ body
     width: 1440;
     height: 900;
     color: #FFFFFF;
+    font-family: 'Lato';
+}
 }
 .div3
 {
@@ -19,7 +21,6 @@ h1
     width: 440px;
     left: 0;
     top: 0;
-    font-family: Helvetica;
     font-style: normal;
     font-weight: normal;
     font-size: 116px;
@@ -30,7 +31,6 @@ p
     position: absolute;
     width: 440px;
     left: 0;
-    font-family: PT Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
@@ -59,7 +59,6 @@ figcaption
     height: 28px;
     left: 915px;
     top: 825px;
-    font-family: PT Sans;
     font-style: italic;
     font-weight: bold;
     font-size: 24px;
@@ -72,7 +71,6 @@ nav
     height: 27px;
     left: 155px;;
     top: 865px;
-    font-family: Helvetica;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
