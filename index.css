@@ -5,6 +5,7 @@ body
      color: #FFFFFF;
      width: 1440;
      height: 900;
+     font-family: 'Lato', sans-serif;
 }
 .div1
 {
@@ -20,8 +21,6 @@ ul
      list-style-type: none;
      margin-top: 0px;
      height: 90px;
-     font-family: lato;
-     font-style: normal;
      font-weight: bold;
      font-size: 63px;
      line-height: 140px;
@@ -43,8 +42,6 @@ h1
      width: 790px;
      height: 280px;
      margin-top: 95px;
-     font-family: Lato;
-     font-style: normal;
      font-weight: 300;
      font-size: 137px;
      line-height: 100%;
@@ -70,7 +67,6 @@ p
      height: 236px;
      left: 465px;
      margin-top: 470px;
-     font-family: Lato;
      font-style: normal;
      font-weight: normal;
      font-size: 38px;
