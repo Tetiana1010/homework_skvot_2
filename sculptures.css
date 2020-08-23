@@ -7,32 +7,25 @@ body
     color: #FFFFFF;
     font-family: 'Lato';
 }
-}
 .div3
 {
     position: absolute;
-    width: 440px;
-    left: 155px;
+    width: 450px;
+    left: 100px;
     top: 157px;
 }
 h1
 { 
     position: absolute;
-    width: 440px;
     left: 0;
     top: 0;
-    font-style: normal;
-    font-weight: normal;
     font-size: 116px;
     line-height: 97px;
 }
 p
 {
     position: absolute;
-    width: 440px;
     left: 0;
-    font-style: normal;
-    font-weight: normal;
     font-size: 23px;
     line-height: 28px;
 }
@@ -75,7 +68,6 @@ nav
     font-weight: bold;
     font-size: 15px;
     line-height: 34px;
-    color: #FFFFFF;
 }
 /* unvisited link */
 a:link {
