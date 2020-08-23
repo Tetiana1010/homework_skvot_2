@@ -12,7 +12,7 @@ body
      position: absolute;
      width: 320px;
      height: 670px;
-     left: 100px;
+     left: 80px;
      top: 140px;
 }
 ul
@@ -30,7 +30,7 @@ ul
      position: absolute;
      width: 800px;
      height: 750px;
-     left: 600px;
+     left: 580px;
      top: 100px;
      background: #1B191A;
      border: 4px solid #FFFFFF;
@@ -65,7 +65,7 @@ p
      position: absolute;
      width: 330px;
      height: 236px;
-     left: 465px;
+     left: 445px;
      margin-top: 470px;
      font-size: 38px;
      line-height: 49px;
