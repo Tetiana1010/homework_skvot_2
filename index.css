@@ -43,9 +43,9 @@ h1
      width: 790px;
      height: 280px;
      margin-top: 95px;
-     left: 25px;
+     left: 20px;
      font-weight: 300;
-     font-style: normal;
+     font-style: bold;
      font-size: 137px;
      line-height: 100%;
      display: flex;
@@ -67,7 +67,7 @@ p
      position: absolute;
      width: 330px;
      height: 236px;
-     left: 445px;
+     left: 450px;
      margin-top: 470px;
      font-size: 38px;
      line-height: 49px;
@@ -89,3 +89,4 @@ a:hover
      color: #C4C4C4;
      text-decoration: underline;            
 }
+
