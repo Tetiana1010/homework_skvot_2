@@ -7,12 +7,13 @@ body
     color: #FFFFFF;
     font-family: 'Lato';
 }
-.div_H1
+
+.div_text
 {
     position: absolute;
     width: 450px;
     left: 100px;
-    top: 130px;
+    top: 90px;
 }
 h1
 { 
@@ -27,33 +28,29 @@ p
     position: absolute;
     left: 0;
     font-size: 23px;
-    line-height: 28px;
+    line-height: 29px;
 }
-.p1
-{
-    top: 195px ;
-} 
-.p2
-{
-    top: 310px;
-} 
+.p1 { top: 205px ; } 
+.p2 { top: 310px; } 
+
 img 
 {
     position: absolute;
     width: 785px;
     height: 741px;
     left: 615px;
-    top: 69px;
+    top: 50px;
 }
 figcaption 
 {
     position: absolute;
     width: 325px;
     left: 915px;
-    top: 825px;
-    font-size: 24px;
+    top: 815px;
+    font-size: 20px;
     line-height: 31px;;
 }
+
 .divVec4
 {
    position: relative;
@@ -61,32 +58,6 @@ figcaption
    height: 52.5px;
    top: 440px;
 }
-object
-{
-    position: absolute;
-}
-.vec1
-{
-    left: 25px;
-}
-.vec2
-{
-    left: 1375px;
-}
-/* unvisited link */
-a:link {
-    color:#FFFFFF;
-    text-decoration: none;
-}
-/* visited link */
-a:visited 
-{
-    color: #FFFFFF;
-    text-decoration: none;
-}
-/* mouse over link */
-a:hover 
-{
-    color: #C4C4C4;
-    text-decoration: underline;            
-}
+object { position: absolute; }
+.vec1 { left: 25px; }
+.vec2 { left: 1375px;}
