@@ -57,15 +57,19 @@ figcaption
     font-size: 24px;
     line-height: 31px;;
 }
+.divVec4
+{
+   position: absolute;
+   width: 1300px;
+   height: 52.5px;
+   top: 450px;
+}
 object
 {
     position: absolute;
-    width: 20px;
-    height: 40.5px;
-    left: 70px;
-    top: 320px;  
+    width: 30px;
+    height: 52.5px;  
 }
-
 /* unvisited link */
 a:link {
     color:#FFFFFF;
