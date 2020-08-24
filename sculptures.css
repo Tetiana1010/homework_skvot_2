@@ -12,7 +12,7 @@ body
     position: absolute;
     width: 450px;
     left: 100px;
-    top: 157px;
+    top: 165px;
 }
 h1
 { 
@@ -31,11 +31,11 @@ p
 }
 .p1
 {
-    top: 190px ;
+    top: 195px ;
 } 
 .p2
 {
-    top: 310px;
+    top: 315px;
 } 
 img 
 {
@@ -52,17 +52,15 @@ figcaption
     height: 28px;
     left: 915px;
     top: 825px;
-    font-style: italic;
-    font-weight: bold;
     font-size: 24px;
     line-height: 31px;;
 }
 .divVec4
 {
    position: relative;
-   width: 1280px;
+   width: 1440px;
    height: 52.5px;
-   top: 450px;
+   top: 440px;
 }
 object
 {
@@ -70,11 +68,11 @@ object
 }
 .vec1
 {
-    left: 0px;
+    left: 25px;
 }
 .vec2
 {
-    left: 1350px;
+    left: 1375px;
 }
 
 /* unvisited link */
