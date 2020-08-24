@@ -7,7 +7,7 @@ body
     color: #FFFFFF;
     font-family: 'Lato';
 }
-.div3
+.div_H1
 {
     position: absolute;
     width: 450px;
@@ -60,9 +60,13 @@ figcaption
 .divVec4
 {
    position: relative;
-   width: 1300px;
+   width: 1280px;
    height: 52.5px;
    top: 450px;
+}
+object
+{
+    position: absolute;
 }
 .vec1
 {
@@ -70,7 +74,7 @@ figcaption
 }
 .vec2
 {
-    left: 1370px;
+    left: 1350px;
 }
 
 /* unvisited link */
