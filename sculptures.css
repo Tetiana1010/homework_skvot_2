@@ -59,10 +59,18 @@ figcaption
 }
 .divVec4
 {
-   position: absolute;
+   position: relative;
    width: 1300px;
    height: 52.5px;
    top: 450px;
+}
+.vec1
+{
+    left: 0px;
+}
+.vec2
+{
+    left: 1370px;
 }
 
 /* unvisited link */
