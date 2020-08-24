@@ -21,6 +21,7 @@ ul
      list-style-type: none;
      margin-top: 0px;
      height: 90px;
+     font-style: normal;
      font-weight: bold;
      font-size: 63px;
      line-height: 140px;
@@ -42,22 +43,23 @@ h1
      width: 790px;
      height: 280px;
      margin-top: 95px;
+     left: 20px;
      font-weight: 300;
+     font-style: normal;
      font-size: 137px;
      line-height: 100%;
      display: flex;
      align-items: flex-end;
-     text-align: center;
      letter-spacing: -0.01em;
      text-transform: uppercase;
      animation-name: example;
-    animation-duration: 4s;
+     animation-duration: 5s;
 }
 @keyframes example 
-{
-     0%   {color: red;}
-     25%  {color: yellow;}
-     50%  {color: blue;}
+{    0%     {color: white;          }
+     25%   {color: red;}
+     50%  {color: yellow;}
+     75%  {color: blue;}
      100% {color: green;}
 }
 p 
