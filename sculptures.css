@@ -64,12 +64,7 @@ figcaption
    height: 52.5px;
    top: 450px;
 }
-object
-{
-    position: absolute;
-    width: 30px;
-    height: 52.5px;  
-}
+
 /* unvisited link */
 a:link {
     color:#FFFFFF;
