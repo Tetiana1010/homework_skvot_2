@@ -57,18 +57,15 @@ figcaption
     font-size: 24px;
     line-height: 31px;;
 }
-nav
+object
 {
     position: absolute;
-    width: 310px;
-    height: 27px;
-    left: 155px;;
-    top: 865px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 15px;
-    line-height: 34px;
+    width: 20px;
+    height: 40.5px;
+    left: 1120px;
+    top: 320px;  
 }
+
 /* unvisited link */
 a:link {
     color:#FFFFFF;
