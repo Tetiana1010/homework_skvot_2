@@ -40,7 +40,7 @@ figcaption  {
     position: absolute;
     width: 325px;
     left: 915px;
-    top: 975px;
+    top: 785px;
     font-size: 20px;
     line-height: 31px;;
 }
@@ -50,7 +50,7 @@ figcaption  {
    position: relative;
    width: 1440px;
    height: 52.5px;
-   top: 350px;
+   top: 353px;
 }
 object { position: absolute; }
 .vec1 { left: 25px; }
