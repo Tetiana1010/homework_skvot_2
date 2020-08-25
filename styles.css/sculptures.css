@@ -11,7 +11,7 @@ body {
     position: absolute;
     width: 450px;
     left: 100px;
-    top: 50px;
+    top: 40px;
 }
 h1 { 
     position: absolute;
@@ -34,13 +34,13 @@ img {
     width: 785px;
     height: 741px;
     left: 615px;
-    top: 20px;
+    top: 10px;
 }
 figcaption  {
     position: absolute;
     width: 325px;
     left: 915px;
-    top: 775px;
+    top: 765px;
     font-size: 20px;
     line-height: 31px;;
 }
@@ -50,7 +50,7 @@ figcaption  {
    position: relative;
    width: 1440px;
    height: 52.5px;
-   top: 313px;
+   top: 303px;
 }
 object { position: absolute; }
 .vec1 { left: 25px; }
