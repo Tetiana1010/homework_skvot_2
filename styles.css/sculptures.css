@@ -11,7 +11,7 @@ body {
     position: absolute;
     width: 450px;
     left: 100px;
-    top: 70px;
+    top: 50px;
 }
 h1 { 
     position: absolute;
@@ -26,21 +26,21 @@ p {
     font-size: 23px;
     line-height: 29px;
 }
-.p1 { top: 205px ; } 
-.p2 { top: 310px; } 
+.p1 { top: 185px ; } 
+.p2 { top: 290px; } 
 
 img {
     position: absolute;
     width: 785px;
     height: 741px;
     left: 615px;
-    top: 30px;
+    top: 20px;
 }
 figcaption  {
     position: absolute;
     width: 325px;
     left: 915px;
-    top: 785px;
+    top: 775px;
     font-size: 20px;
     line-height: 31px;;
 }
@@ -50,7 +50,7 @@ figcaption  {
    position: relative;
    width: 1440px;
    height: 52.5px;
-   top: 353px;
+   top: 333px;
 }
 object { position: absolute; }
 .vec1 { left: 25px; }
