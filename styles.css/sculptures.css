@@ -1,5 +1,4 @@
-body
-{
+body {
     background-color: #1B191A;
     position: relative;
     width: 1440;
@@ -8,23 +7,20 @@ body
     font-family: 'Lato';
 }
 
-.div_text
-{
+.div_text {
     position: absolute;
     width: 450px;
     left: 100px;
-    top: 90px;
+    top: 70px;
 }
-h1
-{ 
+h1 { 
     position: absolute;
     left: 0;
     top: 0;
     font-size: 116px;
     line-height: 97px;
 }
-p
-{
+p {
     position: absolute;
     left: 0;
     font-size: 23px;
@@ -33,20 +29,18 @@ p
 .p1 { top: 205px ; } 
 .p2 { top: 310px; } 
 
-img 
-{
+img {
     position: absolute;
     width: 785px;
     height: 741px;
     left: 615px;
-    top: 50px;
+    top: 30px;
 }
-figcaption 
-{
+figcaption  {
     position: absolute;
     width: 325px;
     left: 915px;
-    top: 815px;
+    top: 975px;
     font-size: 20px;
     line-height: 31px;;
 }
@@ -56,7 +50,7 @@ figcaption
    position: relative;
    width: 1440px;
    height: 52.5px;
-   top: 440px;
+   top: 350px;
 }
 object { position: absolute; }
 .vec1 { left: 25px; }
